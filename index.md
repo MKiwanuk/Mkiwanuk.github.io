@@ -1,6 +1,6 @@
 # Moses Kiwanuka
 
-![Headshot of Moses Kiwanuka](https://0.academia-photos.com/178439174/84445009/73078442/s200_moses.kiwanuka.jpeg)
+
 
 # Profile
 I'm a PhD candidate in the Department of Earth and Environment, Florida International University.
